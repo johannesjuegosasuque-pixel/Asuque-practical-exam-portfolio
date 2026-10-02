@@ -1,0 +1,9 @@
+1. What is backend development?
+Backend development is the server-side part of a web application. It handles data, requests, and application logic.
+
+2. Give 2 examples of backend frameworks.
+- Express.js
+- Django
+
+3. What is an API?
+An API allows different software applications to communicate and exchange data.
